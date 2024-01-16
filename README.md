@@ -9,5 +9,5 @@ https://www.westwindsornj.org/facilities
 
 https://www.westwindsornj.org/duck-pond-park  (one sample park page with slideshow)
 
-I also created this site for Hackthon competition with the knowledge that I learned.
+
 
