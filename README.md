@@ -5,7 +5,7 @@ https://emilywwp.github.io/
 
 
 Official Page: 
-https://www.westwindsornj.org/facilities (official page)
+https://www.westwindsornj.org/facilities
 
 https://www.westwindsornj.org/duck-pond-park  (one sample park page with slideshow)
 
