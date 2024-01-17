@@ -1,6 +1,6 @@
 ## Project for West Windsor Park 
 
-Led Girlscout team members to go to each park to look at the facility and take pictures. Prepare web content and presentation for each park. 
+Led Girlscout team members to visit each park. Took picture of the park and facilities. Prepare web content and presentation for each park. 
 
 The the initial work that I created for 12 parks for West Windsor Township is located on https://emilywwp.github.io/
 
